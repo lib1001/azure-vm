@@ -3,7 +3,7 @@
 </p>
 
 <h1>Creating a Virtual Machine in Microsoft Azure</h1>
-This tutorial outlines the creation of Virtual Machines in Windows 10 and Linux.<br />
+This tutorial outlines the creation of Virtual Machines in Azure using Windows 10 and Linux.<br />
 
 
 <h2>Video Demonstration</h2>
