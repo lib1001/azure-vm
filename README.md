@@ -6,10 +6,6 @@
 This tutorial outlines the creation of Virtual Machines in Azure using Windows 10 and Linux.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure 
@@ -61,7 +57,7 @@ This tutorial outlines the creation of Virtual Machines in Azure using Windows 1
 </p>
 <br />
 
--Congrats! :tada: You have successfully created your first Windows 10 Virtual Machine in Microsoft Azure!
+Congrats! :tada: You have successfully created your first Windows 10 Virtual Machine in Microsoft Azure!
 
 <h2>Deployment and Configuration Steps (Linux)</h2>
 - Here we will create a second virtual machine, this time using Linux, using the same virtual network as our first virtual machine.
@@ -96,5 +92,5 @@ This tutorial outlines the creation of Virtual Machines in Azure using Windows 1
 </p>
 <br />
 
--Congrats! :tada: You have successfully created your first Linux Virtual Machine in Microsoft Azure!
+Congrats! :tada: You have successfully created your first Linux Virtual Machine in Microsoft Azure!
 
